@@ -2,8 +2,5 @@
 
 ## Demo Video
 
-Replace this line with the video link before submission.
-
-Example:
-
-<video src="VIDEO_URL"></video>
+<video src="https://github.com/proxima1619/send-arp/blob/main/send-arp-test-demo.mp4?raw=true" controls="controls" style="max-width: 100%;">
+</video>
